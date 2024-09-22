@@ -1,6 +1,6 @@
 A beautiful magazine app
 
-Design : [dribbble](https://dribbble.com/shots/6220712-Mood-Mobile)
+
 
 Features ....
 1 . Parallax animation
